@@ -1,15 +1,15 @@
 ---
-sidebar_label: '2025年8月実施 筆記試験 第3問'
+sidebar_label: '2026年2月実施 筆記試験 第3問'
 tags:
   - Tokyo-University
   - Explanation
 ---
-# 東京大学 情報理工学系研究科 創造情報学専攻 2025年8月実施 筆記試験 第3問
+# 東京大学 情報理工学系研究科 創造情報学専攻 2026年2月実施 筆記試験 第3問
 
 ## **Author**
 [itsuitsuki](https://github.com/itsuitsuki)
 
-## **Description (Memorized version)**
+## **Description (Memorized version, English)**
 Select **four items** out of the following eight items concerning information systems, and explain each item in approximately from four to eight lines. If necessary, use examples, figures or equations.
 
 1. MST and an algorithm for finding it

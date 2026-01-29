@@ -38,4 +38,4 @@ We define functions as follows:
 
 (7) Calculate the value of $R( F(\text{0b0111\_1000}) + F(\text{0b0001\_1000}) )$.
 
-(8) Let $e$ and $h$ be numbers that can be exactly represented in EM notation, with $e \le 15$. Let $L(e)$ be the integer part of the decimal value of $e$. Find a value for $h$ (provide the decimal value) such that the lower 4 bits (the Mantissa part, $[3:0]$) of $I(e+h)$ correspond to the value $L(e)$.
+(8) Let $e$ and $h$ be numbers that can be exactly represented in EM notation, with $e \le 15$. Let $L(e)$ be the integer part of the decimal value of $e$. Find a value for $h$ (provide the decimal value) such that the lower 4 bits (the Mantissa part, $[3:0]$) of $I(e+h)$ correspond to the value $L(e)$ for every $e$.
